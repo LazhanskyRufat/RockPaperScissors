@@ -1792,7 +1792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _uiManager: {fileID: 1340758652}
-  _useCheatingBot: 0
+  _useCheatingBot: 1
   _cheatingBotDifficulty: 0.5
 --- !u!1 &1466625246
 GameObject:
